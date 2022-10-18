@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator
+/Users/alyaklyusheva/Projects/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.deps.json
+/Users/alyaklyusheva/Projects/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.runtimeconfig.json
+/Users/alyaklyusheva/Projects/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.dll
+/Users/alyaklyusheva/Projects/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.pdb
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.dll
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/refint/DiscountCalculator.dll
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.pdb
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/DiscountCalculator/obj/Debug/net6.0/ref/DiscountCalculator.dll

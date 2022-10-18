@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/Calculator/bin/Debug/net6.0/Calculator
+/Users/alyaklyusheva/Projects/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/alyaklyusheva/Projects/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/alyaklyusheva/Projects/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/alyaklyusheva/Projects/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/Calculator/obj/Debug/net6.0/ref/Calculator.dll

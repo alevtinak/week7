@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/Functions/bin/Debug/net6.0/Functions
+/Users/alyaklyusheva/Projects/Functions/bin/Debug/net6.0/Functions.deps.json
+/Users/alyaklyusheva/Projects/Functions/bin/Debug/net6.0/Functions.runtimeconfig.json
+/Users/alyaklyusheva/Projects/Functions/bin/Debug/net6.0/Functions.dll
+/Users/alyaklyusheva/Projects/Functions/bin/Debug/net6.0/Functions.pdb
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.dll
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/refint/Functions.dll
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.pdb
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/Functions.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/Functions/obj/Debug/net6.0/ref/Functions.dll
